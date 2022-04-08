@@ -1,0 +1,11 @@
+[
+{"titulo": "Mi pimer nota",
+    "estado": "Terminada"
+},
+{"titulo": "Mi segunda nota",
+    "estado": "en progreso"
+},
+{"titulo": "Mi tercer nota",
+    "estado": "pendiente"
+}
+]
